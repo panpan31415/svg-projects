@@ -1,0 +1,27 @@
+{
+  "name": "svg-practices",
+  "version": "1.0.0",
+  "description": "a package to save all my svg exercises ",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panpan31415/svg-projects.git"
+  },
+  "keywords": [
+    "svg",
+    "practice"
+  ],
+  "author": "panpan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panpan31415/svg-projects/issues"
+  },
+  "homepage": "https://github.com/panpan31415/svg-projects#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
